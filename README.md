@@ -695,5 +695,5 @@ Thank you to our wonderful friend Ania Kubow for producing the Netflix clone. If
 While we focused on getting you up and running to production with Astra DB and Netlify, Ania's video will dig into more details on the app itself. Check it out to dig in more.
 
 [Ania's Netflix Video](https://www.youtube.com/watch?v=g8COh40v2jU)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fd111361-d6e6-4d40-ad0d-1fc5037fb673/deploy-status)](https://app.netlify.com/sites/vigorous-darwin-2c7557/deploys)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/16d2f33d-6496-4fc6-ad3a-ea47af048977/deploy-status)](https://app.netlify.com/sites/stupefied-austin-af6e46/deploys)
